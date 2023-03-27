@@ -9,7 +9,7 @@ function Profile({ name }) {
       />
       <h4>{name}</h4>
       <p align="justify">
-        Katherine Johnson was an American mathematician whose calculations of
+        {name} was an American mathematician whose calculations of
         orbital mechanics as a NASA employee were critical to the success of the
         first and subsequent U.S. crewed spaceflights. During her 33-year career
         at NASA and its predecessor, she earned a reputation for mastering
